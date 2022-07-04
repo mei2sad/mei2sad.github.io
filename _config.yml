@@ -110,7 +110,10 @@ author:
   location         : "Busan"
   email            : "Email"
   website          : "Website"
-  facebook         : "Facebook"
+  facebook         :
+  github           :
+  
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
