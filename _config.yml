@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "인공지능 연구소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "이승용"
 description              : "An amazing website."
 url                      : "https://mei2sad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
