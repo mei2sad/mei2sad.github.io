@@ -108,7 +108,8 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "인공지능을 공부하고 있는 동서대학교 4학년 소프트웨어 학과 이승용입니다."
   location         : "Busan"
-  email            : "mei2sad@naver.com"
+  email            : "Email"
+  website          : "Website"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
