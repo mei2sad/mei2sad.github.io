@@ -110,8 +110,8 @@ author:
   location         : "Busan"
   email            : "Email"
   website          : "Website"
-  facebook         :
-  github           :
+  facebook         : "facebook"
+  github           : "github"
   
   
   links:
